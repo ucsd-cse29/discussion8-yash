@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// TODO
+// TODO: return the index of the block that will be selected while also updating the freeBlocks array
 int bestFit(int freeBlocks[], int numBlocks, int alloc_size) {
     
 }
